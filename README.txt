@@ -1,1 +1,1 @@
-Spritkostenrechner PWA mit Streckenname, Teilen- und PDF-Export.\n\nOptional Von/Nach eintragen. Die Route erscheint in der App, beim Teilen und im PDF-Export. Alle Dateien auf einen HTTPS-Webspace hochladen.\n
+PWA v8: PDF-Export öffnet eine neue Vorschau mit Streckenname, Schaltfläche „Zurück zur Eingabe“ und „PDF speichern / Drucken“. Alle Dateien auf HTTPS-Webspace hochladen.
