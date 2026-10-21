@@ -1,1 +1,5 @@
-PWA v8: PDF-Export öffnet eine neue Vorschau mit Streckenname, Schaltfläche „Zurück zur Eingabe“ und „PDF speichern / Drucken“. Alle Dateien auf HTTPS-Webspace hochladen.
+Spritkostenrechner PWA v9
+
+Neu: Das aktuelle Datum wird beim Teilen und beim Öffnen des PDF-Exports automatisch im deutschen Format ergänzt.
+
+Installation: Alle Dateien auf einen HTTPS-Webspace hochladen, Webadresse auf dem Smartphone öffnen und als App installieren.
