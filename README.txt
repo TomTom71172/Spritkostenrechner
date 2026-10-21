@@ -1,3 +1,1 @@
-Spritkostenrechner PWA
-
-Den Inhalt auf einen HTTPS-Webspace hochladen. Danach auf dem Smartphone öffnen und über den Browser zum Startbildschirm hinzufügen bzw. als App installieren.
+Spritkostenrechner PWA mit Streckenname, Teilen- und PDF-Export.\n\nOptional Von/Nach eintragen. Die Route erscheint in der App, beim Teilen und im PDF-Export. Alle Dateien auf einen HTTPS-Webspace hochladen.\n
