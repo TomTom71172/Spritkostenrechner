@@ -1,5 +1,1 @@
-Spritkostenrechner PWA v9
-
-Neu: Das aktuelle Datum wird beim Teilen und beim Öffnen des PDF-Exports automatisch im deutschen Format ergänzt.
-
-Installation: Alle Dateien auf einen HTTPS-Webspace hochladen, Webadresse auf dem Smartphone öffnen und als App installieren.
+Spritkostenrechner PWA v10 mit Fahrtdatum. Das Fahrtdatum wird über ein Kalenderfeld gewählt und beim Teilen sowie im PDF-Export ausgegeben. Beim Zurücksetzen wird es gelöscht. Alle Dateien auf HTTPS-Webspace hochladen.
