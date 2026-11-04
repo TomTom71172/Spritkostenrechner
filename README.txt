@@ -1,5 +1,1 @@
-Spritkostenrechner PWA v9
-
-Neu: Das aktuelle Datum wird beim Teilen und beim Öffnen des PDF-Exports automatisch im deutschen Format ergänzt.
-
-Installation: Alle Dateien auf einen HTTPS-Webspace hochladen, Webadresse auf dem Smartphone öffnen und als App installieren.
+Spritkostenrechner PWA v12. Der PDF-Button erzeugt eine echte PDF-Datei direkt im Browser und lädt sie mit dem Namen Strecke_Speicherdatum.pdf herunter, z. B. Bayreuth-Nuernberg_04-11-2026.pdf. Bei Hin- und Rückfahrt wird -und-zurueck ergänzt.
