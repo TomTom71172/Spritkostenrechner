@@ -1,1 +1,1 @@
-Spritkostenrechner PWA v10 mit Fahrtdatum. Das Fahrtdatum wird über ein Kalenderfeld gewählt und beim Teilen sowie im PDF-Export ausgegeben. Beim Zurücksetzen wird es gelöscht. Alle Dateien auf HTTPS-Webspace hochladen.
+Spritkostenrechner PWA v12. Der PDF-Button erzeugt eine echte PDF-Datei direkt im Browser und lädt sie mit dem Namen Strecke_Speicherdatum.pdf herunter, z. B. Bayreuth-Nuernberg_04-11-2026.pdf. Bei Hin- und Rückfahrt wird -und-zurueck ergänzt.
